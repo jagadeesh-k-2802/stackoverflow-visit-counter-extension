@@ -1,6 +1,6 @@
-QUESTION_PAGE_REGEX = /https:\/\/stackoverflow.com\/questions\/[0-9]*\//;
+const QUESTION_PAGE_REGEX = /https:\/\/stackoverflow.com\/questions\/[0-9]*\//;
 
-MONTHS = [
+const MONTHS = [
   'Jan',
   'Feb',
   'Mar',
